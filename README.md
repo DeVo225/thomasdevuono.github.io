@@ -12,9 +12,9 @@ NJIT - Bachelor of Science, Mecanical Engineering 2014
 
 # Social
 
-[Twitter](https://twitter.com/ThomasDeVuono). 
-[Facebook](https://www.facebook.com/thomasdevuono). 
-[LinkedIn](https://www.linkedin.com/in/thomas-devuono-7139417a/). 
+[Twitter](https://twitter.com/ThomasDeVuono)<b/r>
+[Facebook](https://www.facebook.com/thomasdevuono)<b/r>
+[LinkedIn](https://www.linkedin.com/in/thomas-devuono-7139417a/)<b/r>
 
 # Some things I Like
 
