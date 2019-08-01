@@ -1,6 +1,5 @@
 # Me
-![OH IT'S ME]
-(https://github.com/DeVo225/thomasdevuono/blob/master/images/Image%20from%20iOS.jpg)
+![OH IT'S ME](https://github.com/DeVo225/thomasdevuono/blob/master/images/Image%20from%20iOS.jpg)
 
 # Work
 
