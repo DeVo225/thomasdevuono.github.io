@@ -18,4 +18,4 @@ NJIT - Bachelor of Science, Mecanical Engineering 2014
 
 # Some things I Like
 
-🏈 (🦅),  🎤,  ⛳️,  🥘,  👾,  🍻,  🏝,  🐶,  🐴
+🏈 (🦅)   🎤    ⛳️    🥘    👾    🍻    🏝    🐶    🐴
