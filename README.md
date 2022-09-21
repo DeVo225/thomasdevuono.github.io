@@ -1,4 +1,4 @@
-<img src="images/IMG_1825.jpeg" height="256" width="256">
+<img src="LickabilityRetreat-6.jpeg" height="256" width="256">
 
 # Work
 
@@ -17,4 +17,4 @@ NJIT - Bachelor of Science, Mecanical Engineering 2014
 
 # Some things I Like
 
-🏈 (🦅)   🎤    ⛳️    🥘    👾    🍻    🏝    🐶    🐴    🏎    🦄
+🏈   🦅   🎤    ⛳️    🥘    👾    🍻    🏝    🐶    🐴    🏎    🦄
